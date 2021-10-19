@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.tanukidarou.upm-template": {
+      "version": "file:com.tanukidarou.upm-template",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.2d.animation": {
       "version": "5.0.7",
       "depth": 0,
